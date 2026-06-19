@@ -6,7 +6,7 @@ Foco em **LLMs (Claude, GPT), engenharia de prompt, RAG, integração de APIs e 
 
 ### Sobre os repositórios aqui
 
-Quase tudo isso eu desenvolvi e rodo numa VPS, versionando em **git local** — nunca tinha usado o GitHub pra esses projetos. Subi agora pra montar um portfólio organizado, então o histórico público é recente, mas o código é o que já está em produção. O `balcao` é a exceção: construí ele agora, como referência de uma arquitetura RAG completa.
+Quase tudo isso eu desenvolvi e rodo numa VPS, versionando em **git local** — esses projetos específicos eu ainda não tinha subido pro GitHub. Fiz isso agora pra montar um portfólio organizado, então o histórico público é recente, mas o código é o que já está em produção. O `balcao` é a exceção: construí ele agora, como referência de uma arquitetura RAG completa.
 
 ### O que tem pra ver
 
